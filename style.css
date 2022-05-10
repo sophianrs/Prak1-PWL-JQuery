@@ -1,0 +1,21 @@
+
+.card {
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.card-title {
+    margin-top: 10px;
+}
+.bungkus {
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-end;
+}
+.buttonSubmit {
+    margin-top: 10px;
+    
+    align-content: center;
+}
